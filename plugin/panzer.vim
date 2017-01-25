@@ -30,6 +30,7 @@ let g:panzers =
 
 let g:panzer_frames = {'vim': {'roofleft': '"', 'roofright': '"', 'center': '-', 'pillar': '"', 'baseleft': '"', 'baseright': '"'},
                       \'c': {'roofleft': '/*', 'roofright': '*\', 'center': '*', 'pillar': '|*|', 'baseleft': '\*', 'baseright': '*/'},
+                      \'cpp': {'roofleft': '/*', 'roofright': '*\', 'center': '*', 'pillar': '|+|', 'baseleft': '\*', 'baseright': '*/'},
                       \'default': {'roofleft': '#', 'roofright': '#', 'center': '#', 'pillar': '#', 'baseleft': '#', 'baseright': '#'}
                       \}
 
